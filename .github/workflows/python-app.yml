@@ -24,5 +24,6 @@ jobs:
     - name: Run bot
       env:
         API: 8323092859:AAEYswP3xsLt3y9Pmh5CNFxGqlU2S32erv4
+        CHAT: 3PBsGxzBrhvqUoNmcsBZ6IvjQ12IP7Oe
       run: |
         python main.py
